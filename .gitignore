@@ -1,0 +1,13 @@
+# Data files (too large for GitHub)
+nyc-taxi-trip-duration/
+nyc-taxi-trip-duration.zip
+
+# macOS
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc

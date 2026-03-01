@@ -1,6 +1,6 @@
 # Data files (too large for GitHub)
-nyc-taxi-trip-duration/
-nyc-taxi-trip-duration.zip
+data/
+*.zip
 
 # macOS
 .DS_Store

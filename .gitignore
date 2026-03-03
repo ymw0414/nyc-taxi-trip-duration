@@ -2,6 +2,13 @@
 data/
 *.zip
 
+# Results and submission files
+result/
+homework_1_upload/
+
+# Test scripts
+test_pipeline.py
+
 # macOS
 .DS_Store
 
